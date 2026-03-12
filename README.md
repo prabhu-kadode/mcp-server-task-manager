@@ -1,3 +1,9 @@
+# Task Manager MCP Server Integrated with Claude AI
+
+This is MCP server built to create , update, delete tasks for daily use, and this is integrated with claude. 
+
+You can prompt to claude ai to add,list, update and delete tasks. 
+
 # Install fastmcp
 
 You can install fastmcp as it is required package to build mcp servers
