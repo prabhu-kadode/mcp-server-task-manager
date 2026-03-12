@@ -1,3 +1,11 @@
+# Install fastmcp
+
+You can install fastmcp as it is required package to build mcp servers
+
+```bash
+pip install fastmcp
+```
+
 # Run MCP Server
 
 You can run the MCP server with the following command:
